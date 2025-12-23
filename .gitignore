@@ -1,7 +1,23 @@
-# .gitignore
-_pycache_/
+# Python
+.venv/
+__pycache__/
 *.pyc
+
+# Models & checkpoints
+checkpoints/
+*.bin
+*.pt
+*.safetensors
+
+# Logs
+logs/
+*.log
+
+# Secrets
+Credentials.json
+token.json
 .env
+
+# OS
 .DS_Store
-node_modules/
-.vscode/
+Thumbs.db
