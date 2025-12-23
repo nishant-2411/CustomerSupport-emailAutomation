@@ -1,0 +1,1 @@
+# shipcube-email-addon
