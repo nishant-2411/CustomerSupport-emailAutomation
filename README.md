@@ -1,6 +1,21 @@
-# AI Email Response Generation using Custom LLMs
+# Customer Support Email Automation (LLM-Powered)
 
-AI-powered email processing system for Shipcube logistics platform.
+AI-powered email response generation system built for the Shipcube logistics support platform.  
+This project automates customer query handling by classifying intent, extracting entities, and generating professional support responses using fine-tuned custom LLMs.
+
+---
+
+## 🚀 Key Features
+
+- Automated customer support email understanding  
+- Intent classification (tracking, complaints, delivery issues, etc.)  
+- Sentiment + priority detection  
+- Entity extraction (order ID, shipment number, issue type)  
+- Response generation using LoRA fine-tuned LLM  
+- REST API deployment with Flask  
+- Interactive UI using Streamlit  
+
+---
 
 ## 📁 Project Structure
 
@@ -160,5 +175,9 @@ Training parameters can be adjusted in `src/train_lora.py`:
 - Number of epochs
 - LoRA configuration
 
+👤 Author
+Nishant Sharma
+B.Tech CSE (Data Science & Analytics)
+Focus: AI Agents • NLP • Product Analytics
 
 =======
