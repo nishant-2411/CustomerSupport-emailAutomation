@@ -21,3 +21,16 @@ token.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Virtual environment
+env/
+venv/
+
+# ML checkpoints
+checkpoints/
+*.pt
+*.ckpt
+
+# VS Code settings
+.vscode/
+
