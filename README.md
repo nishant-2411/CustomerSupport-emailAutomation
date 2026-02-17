@@ -1,4 +1,4 @@
-# Shipcube AI Email Processing
+# AI Email Response Generation using Custom LLMs
 
 AI-powered email processing system for Shipcube logistics platform.
 
