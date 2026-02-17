@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Shipcube AI Email Processing
 
 AI-powered email processing system for Shipcube logistics platform.
@@ -161,14 +160,5 @@ Training parameters can be adjusted in `src/train_lora.py`:
 - Number of epochs
 - LoRA configuration
 
-## 📄 License
-
-[Add your license here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
 
 =======
-# shipcube-email-addon
->>>>>>> 51820863fed8f448bbd603cf6d2119e1cc11c793
